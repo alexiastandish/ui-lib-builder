@@ -1,0 +1,18 @@
+# UI Lib Builder
+
+**UI Lib Builder** is a lightweight scaffolding tool designed to streamline the creation of UI component libraries. It leverages EJS templates and Webpack to provide a customizable and efficient starting point for building and bundling reusable UI components.
+
+## 🚀 Features
+
+- **EJS Templating**: Easily generate boilerplate code with customizable templates.
+- **Webpack Integration**: Pre-configured Webpack setup for bundling your components.
+- **Modular Structure**: Organized `src/` and `template/` directories for scalable development.
+- **ESLint Configuration**: Maintain code quality with a predefined ESLint setup.
+
+## 📦 Installation
+
+To install the dependencies, run:
+
+```bash
+npm install
+```
